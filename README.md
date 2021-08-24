@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I'm Natasha 🌈 ✨
 
-<!--
-**NatashaSelvidge/NatashaSelvidge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer from 🇺🇸, currently living the Golden State of California. I have a Mamba Mentality, and a diverse set of skills, ranging from design, frontend, and backend development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Portfolio" width="22px" src="https://image.flaticon.com/icons/png/512/4766/4766989.png" />](https://www.natashaselvidge.com/)
+[<img align="left" alt="YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />](https://www.youtube.com/channel/UCkoeFNsJ528Z8eqaOPGnYLA)
+[<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />](https://twitter.com/NatashaSelvidge)
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](http://linkedin.com/in/natasha-selvidge/)
+[<img align="left" alt="Medium" width="22px" src="https://image.flaticon.com/icons/png/512/4401/4401405.png" />](https://natasha-selvidge-98993.medium.com/)
+
