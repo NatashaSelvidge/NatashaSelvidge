@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm Natasha 🌈 ✨
+## 👋 Hi there, I'm Natasha 🌈 ✨
 
-I'm a Software Developer from 🇺🇸, currently living the Golden State of California. I have a Mamba Mentality, and a diverse set of skills, ranging from design, frontend, and backend development.
+### I'm a Software Developer from 🇺🇸, currently living the Golden State of California. I have a Mamba Mentality, and a diverse set of skills, ranging from design, frontend, and backend development.
 
 
 ### Connect with me:
