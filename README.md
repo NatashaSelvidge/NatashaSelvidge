@@ -1,8 +1,8 @@
-## 👋 Hi there, I'm Natasha 🌈 ✨
+## Hi there, I'm Natasha 🌈 ✨
 
 ### I'm a Software Developer from 🇺🇸, currently living the Golden State of California. I am an Air Force Veteran with a Mamba Mentality, and a diverse set of skills, ranging from design, frontend, and backend development.
 
-
+ 
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://image.flaticon.com/icons/png/512/4766/4766989.png" />](https://www.natashaselvidge.com/)
