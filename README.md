@@ -3,7 +3,7 @@
 ### I'm a Software Developer from 🇺🇸, currently living the Golden State of California. I am an Air Force Veteran with a diverse set of skills, ranging from design, frontend, and backend development.
 
  
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://image.flaticon.com/icons/png/512/4766/4766989.png" />](https://www.natashaselvidge.com/)
 [<img align="left" alt="YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />](https://www.youtube.com/channel/UCkoeFNsJ528Z8eqaOPGnYLA)
@@ -13,7 +13,7 @@
 
 <br/>
 <br/>
-
+ -->
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
