@@ -1,6 +1,6 @@
 ## Hi there, I'm Natasha  ✨
 
-### I'm a Software Developer from 🇺🇸, currently living the Golden State of California. I am an Air Force Veteran with a diverse set of skills, ranging from design, frontend, and backend development.
+### 👋 Greetings! I'm a Software Developer hailing from the United States 🇺🇸, currently calling the beautiful Golden State of California home. As a former Air Force Veteran, I bring a diverse range of talents to the digital realm, encompassing expertise in design, frontend, and backend development. Let's craft some exceptional code together! 🚀
 
  
 <!-- ### Connect with me:
